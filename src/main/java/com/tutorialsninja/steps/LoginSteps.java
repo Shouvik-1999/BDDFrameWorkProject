@@ -10,7 +10,7 @@ public class LoginSteps {
 		
 	}
 	
-	@When(" User enter valid Email address {string} in the Email field")
+	@When("User enter valid Email address {string} in the Email field")
 	public void userEnterEmail(String email) {
 		
 	}

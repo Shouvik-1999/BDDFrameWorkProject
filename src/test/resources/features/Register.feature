@@ -1,7 +1,7 @@
 Feature: Registration Functionality
 
   Background: 
-    Given User navigate to Register
+    Given User navigate to register page
 
   Scenario: User create an account only with mandatory fields
     When User enter the details into fields
